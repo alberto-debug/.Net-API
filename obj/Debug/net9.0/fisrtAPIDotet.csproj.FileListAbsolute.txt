@@ -31,3 +31,7 @@
 /home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/obj/Debug/net9.0/fisrtAPIDotet.pdb
 /home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/obj/Debug/net9.0/fisrtAPIDotet.genruntimeconfig.cache
 /home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/obj/Debug/net9.0/ref/fisrtAPIDotet.dll
+/home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/obj/Debug/net9.0/fisrtAPIDotet.sourcelink.json
+/home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/alberto/Desktop/Projects/DOTNET/fisrtAPIDotet/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
