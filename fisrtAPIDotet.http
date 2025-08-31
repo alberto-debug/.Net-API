@@ -1,0 +1,6 @@
+@fisrtAPIDotet_HostAddress = http://localhost:5273
+
+GET {{fisrtAPIDotet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
