@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fisrtAPIDotet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+609b545048c23a9de08c1de4ae9c9b5d18e09947")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b830518182476558a64d35c1fbb66426bbbb34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("fisrtAPIDotet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fisrtAPIDotet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
